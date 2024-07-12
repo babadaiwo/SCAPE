@@ -4,12 +4,12 @@ Official code repository for the paper:
 [**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**]  
 
 
-<p align="center"><img src="assets/intro1.png" width = "500" height = "350"></p>
-<p align="center"><img src="assets/intro1.png" width = "500" height = "350"></p>
+<p align="center"><img src="assets/intro1.pdf" width = "500" height = "350"></p>
+<p align="center"><img src="assets/intro1.pdf" width = "500" height = "350"></p>
 
 ## TODO:
-- [] Release code for train and inference
-- [] Release pre-trained models
+- [ ] Release code for train and inference
+- [ ] Release pre-trained models
 
 ## Usage
 
