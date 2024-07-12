@@ -5,7 +5,7 @@ Official code repository for the paper:
 
 
 <p align="center"><img src="assets/intro1.pdf" width = "500" height = "350"></p>
-<p align="center"><img src="assets/intro1.pdf" width = "500" height = "350"></p>
+<p align="center"><img src="assets/intro2.pdf" width = "500" height = "350"></p>
 
 ## TODO:
 - [ ] Release code for train and inference
