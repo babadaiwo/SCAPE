@@ -4,7 +4,7 @@ Official code repository for the paper:
 [**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**]  
 
 
-<p align="center"><img src="assets/intor1.png" width = "600" height = "300"></p>
+<p align="center"><img src="assets/intor1.png" width = "650" height = "300"></p>
 
 
 ## TODO:
